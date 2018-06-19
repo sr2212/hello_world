@@ -4,6 +4,6 @@
 
 void main(){
 
-	int a=10;
-	printf("%c",7);
+	int a=1;
+	printf("%d%d%d",++a,++a,++a);
 }
