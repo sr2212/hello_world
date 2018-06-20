@@ -8,3 +8,12 @@ void main(){
 	printf("%d%d%d",++a,++a,++a);
 	//this is a code to check a preincrement operation
 }
+
+void feature1(){
+
+	#ifndef NULL
+		printf("NULL is succesfully defined\n");
+	#endif
+	#if NULL
+		printf("NULL already defined");
+	#endif
