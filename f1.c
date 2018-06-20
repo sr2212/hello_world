@@ -8,3 +8,7 @@ void main(){
 	printf("%d%d%d",++a,++a,++a);
 	//this is a code to check a preincrement operation
 }
+
+void checkout(){
+
+}
